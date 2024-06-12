@@ -1,0 +1,78 @@
+*{
+    background-color: #7f8c8d;
+    font-family: "Merienda", cursive;
+    
+
+}
+
+h1:hover, h2 span:hover, h2:hover,#para1:hover, h3:hover, #para2:hover,#span1:hover, #span2:hover,a:hover {
+    background-color: #f5f6fa;
+    color: red;
+  }
+  img:hover{
+    width:90%;
+  }
+h1{
+    background-color: #b2bec3;
+    font-size:50px;
+    color: black;
+}
+h2 span{
+    background-color: azure;
+    font-size: 40px;
+    font-family: "Architects Daughter", cursive;;
+    color: #718093;
+}
+h2{
+    background-color: azure;
+    color: #7f8fa6;
+    font-size: 35px;
+    font-family: "Architects Daughter", cursive;
+}
+
+#para1{
+    background-color: #40739e;
+    color: #dcdde1;
+    font-size:30px;
+    line-height:45px;
+    text-align: justify;
+        
+}
+h3{
+    background-color: #8c7ae6;
+    color:#f5f6fa;
+}
+#para2{
+    background-color: #ff9ff3;
+    color: #341f97;
+    font-size:30px;
+    line-height:45px;
+    text-align: justify;
+}
+#span1{
+    background-color: tomato;
+    color: #182C61;
+}
+#span2{
+    background-color: #f78fb3;
+    color:#546de5;
+    border: 3px solid red;
+    font-size: 25px;
+}
+a{
+    text-decoration:none;
+    background-color: #e74c3c;
+    color: white;
+    width: 200px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius:50px ;
+}
+
+img{
+    display: block;
+    width:50%;
+    border-radius: 25px;
+}
